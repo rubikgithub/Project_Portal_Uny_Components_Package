@@ -1,6 +1,7 @@
-import { B as e, N as o, P as s } from "./index-CqSTysm0.js";
+import { B as e, M as s, N as o, P as B } from "./index-BPjN3rX1.js";
 export {
   e as Breadcrumb,
+  s as Menu,
   o as NavBar,
-  s as Profile
+  B as Profile
 };
